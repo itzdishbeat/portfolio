@@ -1,0 +1,38 @@
+:root {
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-weight: 300;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #0c0c0c;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Playfair";
+  src: url(../fonts/Playfair.ttf);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Playfair";
+  src: url(../fonts/PlayfairItalic.ttf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/Montserrat.ttf);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/MontserratItalic.ttf);
+  font-style: italic;
+}
